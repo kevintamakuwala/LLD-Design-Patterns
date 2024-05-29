@@ -9,6 +9,7 @@ The following design patterns are implemented in this repository:
 - Builder
 - Facade
 - Factory
+- Observer
 - Prototype
 - Singleton
 

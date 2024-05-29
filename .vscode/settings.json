@@ -3,8 +3,10 @@
         "src/singleton/sync",
         "src/singleton/lazy",
         "src\\singleton\\eager",
-        "src\\facade"
+        "src\\facade",
+        "src\\factory"
     ],
     "java.project.outputPath": "bin",
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
 }

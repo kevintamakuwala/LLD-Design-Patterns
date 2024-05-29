@@ -1,6 +1,6 @@
 import components.*;
 import gamestation.PS5;
-public class Runner {
+public class FacadeRunner {
     public static void main(String[] args) {
         System.out.println("=====Facade Pattern=====");
         Screen screen = new Screen();

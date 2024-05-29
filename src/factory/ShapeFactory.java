@@ -1,3 +1,7 @@
+import Shapes.Circle;
+import Shapes.Rectangle;
+import Shapes.Shape;
+
 public class ShapeFactory {
 
     public static Shape getShape(String shapeType) {

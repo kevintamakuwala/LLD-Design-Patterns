@@ -1,3 +1,5 @@
+import Shapes.Shape;
+
 public class FactoryRunner {
     public static void main(String[] args) {
         System.out.println("=====Factory Pattern=====");

@@ -4,7 +4,8 @@
         "src/singleton/lazy",
         "src\\singleton\\eager",
         "src\\facade",
-        "src\\factory"
+        "src\\factory",
+        "src\\abstractFactory"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [],

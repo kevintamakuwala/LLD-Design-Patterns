@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src/singleton/sync",
         "src/singleton/lazy",
-        "src\\singleton\\eager"
+        "src\\singleton\\eager",
+        "src\\facade"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": []

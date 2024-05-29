@@ -25,10 +25,11 @@ To run a particular design pattern, follow these steps:
    cd LLD-Design-Patterns
    ```
 2. **Add the design pattern folder to the classpath**:
-   You can do this by setting the classpath in your IDE or using the command line. For example, if you want to run the Singleton pattern:
+   You can do this by setting the classpath in your IDE or using the command line. For example, if you want to run the Factory pattern:
    ```sh
-   javac -cp . singleton/Runner.java
-   java -cp . singleton.Runner
+   cd src/factory
+   javac -cp . FactoryRunner.java
+   java -cp . FactoryRunner
    ```
 3. Run the Runner class:
    Each design pattern folder contains a Runner class that includes the main method to execute the pattern.

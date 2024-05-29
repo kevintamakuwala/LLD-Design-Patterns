@@ -1,4 +1,4 @@
-class LazyCacheService {
+class LazyCacheService implements Cloneable{
     private static LazyCacheService instance;
     private LazyCacheService() {
     }

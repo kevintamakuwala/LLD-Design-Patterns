@@ -1,4 +1,4 @@
-class EagerCacheService {
+class EagerCacheService implements Cloneable{
     private static final EagerCacheService instance = new EagerCacheService();
 
     private EagerCacheService() {

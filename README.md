@@ -6,8 +6,10 @@ This repository contains implementations of various low-level design patterns in
 The following design patterns are implemented in this repository:
 
 - Abstract Factory
+- Builder
 - Facade
 - Factory
+- Prototype
 - Singleton
 
 ## Getting Started
